@@ -2,7 +2,6 @@
 # **Luis Jhonatan Cueva Rojas**
 
 **Ubicación:** La Molina, Lima, Perú  
-**Teléfono:** (+51) 930-472-478  
 **Correo Electrónico:** [luis.j.cueva@gmail.com](mailto:luis.j.cueva@gmail.com)  
 **LinkedIn:** [LinkedIn Profile](#)  
 **GitHub:** [GitHub Profile](#)

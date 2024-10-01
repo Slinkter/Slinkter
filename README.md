@@ -1,77 +1,51 @@
-## Hi there 👋
-# **Luis Jhonatan Cueva Rojas**
+# LUIS JHONATAN CUEVA ROJAS
 
-**Ubicación:** La Molina, Lima, Perú  
-**Correo Electrónico:** [luis.j.cueva@gmail.com](mailto:luis.j.cueva@gmail.com)  
-**LinkedIn:** [LinkedIn Profile](#)  
-**GitHub:** [GitHub Profile](#)
+**Correo**: luis.j.cueva@gmail.com | **Tel**: 930-472-478  
+**Repositorio**: [GitHub](https://github.com/Slinkter) | [Portafolio](https://slinkter.github.io)  
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/luisjcueva)
 
----
-
-## **Resumen Profesional**
-
-Desarrollador Frontend con experiencia en la creación de aplicaciones web robustas y escalables utilizando **React** y **Chakra UI**. Competente en el diseño de API con **Node.js** y apasionado por la optimización del **SEO** para mejorar la visibilidad y el rendimiento de sitios web. Poseo habilidades comprobadas en la gestión de proyectos según la guía **PMI**, con un enfoque en la entrega de resultados que superen las expectativas del cliente. Actualmente, estoy ampliando mis conocimientos en **inteligencia artificial** aplicada al desarrollo web y **ciencia de datos** para enriquecer mi perfil profesional.
+Egresado de la carrera de sistemas con experiencia en desarrollo de software en el rol de FrontEnd, especializado en la implementación de aplicaciones web con React. Capacidad para liderar proyectos de software aplicando la guía PMI para obtener resultados óptimos. Actualmente, estoy ampliando mis conocimientos en inteligencia artificial aplicada al desarrollo web y ciencia de datos para complementar mi rol profesional. Apasionado por los datos y la tecnología.
 
 ---
 
-## **Experiencia Laboral**
+## EDUCACIÓN
 
-### **Desarrollador Frontend Junior**  
-**Glass & Aluminum Company S.A.C.**  
-**Enero 2023 – Diciembre 2023**  
-- Lideré el rediseño y desarrollo de la página principal utilizando **React** y **Chakra UI**, logrando una mejora significativa en la UX.
-- Implementé estrategias de **SEO** que incrementaron en un 10% las visitas al sitio web, optimizando la visibilidad de los servicios en Google.
-
-### **Desarrollador Android Junior**  
-**Consulting ARSI E.I.R.L.**  
-**Julio 2019 – Abril 2021**  
-- Diseñé y desarrollé **ARSI APP**, una aplicación educativa interna, utilizando **Firebase** y **Material-UI**, asegurando una experiencia fluida y accesible.
-- Lideré el desarrollo de **ARSI UT**, una aplicación para el monitoreo diario de signos vitales, integrando **Firebase** como backend y permitiendo a los usuarios acceder a sus datos a través de un dashboard personalizado.
-
-### **Desarrollador Web Junior**  
-**Consulting ARSI E.I.R.L.**  
-**Octubre 2018 – Junio 2019**  
-- Participé en el desarrollo de **ARSI APP** y **ARSI UT**, asegurando la calidad y efectividad del proyecto a través de metodologías ágiles y la guía **PMI**.
-
-### **Practicante de Sistemas**  
-**Consulting ARSI E.I.R.L.**  
-**Abril 2018 – Septiembre 2018**  
-- Documenté el inventario de equipos y optimicé la infraestructura de red, mejorando la productividad en un 15% y la satisfacción de los empleados en un 20%.
+-   **Universidad de Lima**: Egresado de Ing. De Sistemas | 2010-2016
+-   **EDTEAM**: Ruta Android | 2018-2019
+-   **PLATZI**: Ruta FrontEnd y BackEnd | 2020-2023
+-   **ICPNA**: Inglés Intermedio completo (B2)
 
 ---
 
-## **Educación**
+## HABILIDADES
 
-### **Ingeniería de Sistemas**  
-**Universidad de Lima**  
-**2010-2016**
-
-### **Inglés Intermedio Completo**  
-**ICPNA**
-
----
-
-## **Certificaciones**
-- **PMI**
-- **SCRUM**
-- **Metodologías Ágiles**
-- **Figma**
-- **Excel Avanzado**
+-   **FrontEnd**: Git | HTML | CSS | JavaScript | React 18 | Tailwind CSS | Bootstrap | Chakra UI
+-   **BackEnd**: Node.js | Express.js | SQL (MySQL) | NoSQL (MongoDB) | Firebase
+-   **Lenguajes de programación**: Java | JavaScript | SQL | Java Android | Python
+-   **Certificaciones**: SCRUM | Metodologías Ágiles | Excel
+-   **Estudiando Actualmente**: PMI | TypeScript | Figma | AWS | Azure | AI
 
 ---
 
-## **Habilidades Técnicas**
+## EXPERIENCIA LABORAL
 
-**Frontend:**  
-- HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Chakra UI, React 18
+### Frontend Junior | Glass & Aluminum Company S.A.C. | Enero 2023 – Diciembre 2023
 
-**Backend:**  
-- Node.js, Express.js, SQL (MySQL), NoSQL (MongoDB)
+-   Rediseñé y desarrollé la página principal de la empresa utilizando React y Chakra UI, aumentando la tasa de conversión en un 15% y reduciendo el tiempo de carga en un 30%.
+-   Apliqué estrategias de SEO, logrando un aumento del 10% en las visitas a la página a través de Google Negocios.
 
-**Cloud Computing:**  
-- AWS, Firebase, Azure
+### Android Junior | Consulting ARSI E.I.R.L. | Julio 2019 – Abril 2021
 
----
+-   Diseñé y desarrollé **ARSI APP** Android, una aplicación educativa interna para empleados que incluía registro de usuarios, cursos en video y materiales en PDF, integrando la API de YouTube y Firebase para autenticación y manejo de datos.
+-   Desarrollé **ARSI UT**, una app para el monitoreo en tiempo real de la salud de los empleados, gestionando signos vitales como temperatura y saturación de oxígeno. Utilicé Firebase y Material-UI para crear una experiencia intuitiva y moderna.
 
-## **Intereses y Proyectos Adicionales**
-- Actualmente explorando la integración de **Inteligencia Artificial** en aplicaciones web para optimizar la experiencia del usuario y la toma de decisiones basada en datos.
+### Programador Web Junior | Consulting ARSI E.I.R.L. | Octubre 2018 – Junio 2019
+
+-   Rediseñé la página web de la empresa, logrando un incremento del 20% en el tráfico orgánico mediante la implementación de técnicas de SEO.
+-   Documenté el proceso de desarrollo de software según la guía PMI, mejorando la estructura y eficiencia del proyecto.
+
+### Practicante de Sistema | Consulting ARSI E.I.R.L. | Abril 2018 – Septiembre 2018
+
+-   Brindé soporte técnico a diversas áreas de la empresa, mejorando la productividad en un 20% al optimizar el rendimiento de los equipos y la red interna.
+-   Implementé una nueva arquitectura de red y configuré usuarios en Windows Server, reduciendo un 30% las quejas relacionadas con problemas técnicos.
+-   Catalogué el inventario de equipos, gestionando la baja y reciclaje de equipos obsoletos para mantener un entorno de trabajo eficiente.

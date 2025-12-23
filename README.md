@@ -1,71 +1,67 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBlZ2l6b2VkbTVyZG0xeHh2eXF6eThoYnF5ZnF5ZmFteG96NHR5aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hi there, I'm Luis Jhonatan Cueva Rojas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <h3>Senior Frontend Developer | Tech Lead | Systems Engineer</h3>
-  <p>Specialized in <b>Scalable Frontend Architecture</b>, <b>Digital Transformation</b>, and <b>Hybrid Ecosystems (React & Android)</b>.</p>
 
-  <a href="https://linkedin.com/in/luisjcueva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://slinkter.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:luis.j.cueva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+<div align="center">
+
+|                            Frontend                            |                          Cloud & Backend                          |                      Management & Tools                      |
+| :------------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=react,js,html,css" /> | <img src="https://skillicons.dev/icons?i=firebase,googlecloud" /> | <img src="https://skillicons.dev/icons?i=git,github,vite" /> |
+
 </div>
 
-<br/>
+# LUIS JHONATAN CUEVA ROJAS
 
-### 👨‍💻 About Me
+**Correo**: <luis.j.cueva@gmail.com> | **Tel**: 930-472-478  
+**Repositorio**: [GitHub](https://github.com/Slinkter) | [Portafolio](https://slinkter.github.io)  
+**LinkedIn**: [Luis Cueva](https://www.linkedin.com/in/luisjcueva)
 
-I'm a **Systems Engineer** with **+5 years of experience** bridging the gap between Business Strategy and Technical Excellence. I don't just write code; I build **ecosystems** that solve real-world problems.
-
-- 🔭 I’m currently leading **Digital Transformation** initiatives at **Glass & Aluminum Company**.
-- 🌱 I’m currently learning **AI & Data Science (Python)** to build the next gen of smart apps.
-- 💡 Key achievements: **PMO Founder**, **30% LCP Optimization**, **Crisis Management (COVID-19)**.
-- 🚀 Passionate about: **Clean Architecture**, **Performance Tuning**, and **IoT**.
+Egresado de Sistemas y Frontend Developer especializado en la arquitectura de aplicaciones web escalables con **React** y ecosistemas **Serverless (Firebase)**. Poseo una sólida capacidad para alinear la tecnología con los objetivos de negocio (ahorro de costos, cumplimiento normativo) y un background en desarrollo nativo (Android) que garantiza un código disciplinado y performante.
 
 ---
 
-### 🛠️ Tech Stack
+## EDUCACIÓN
 
-<div align="center">
-
-| Frontend & Mobile | Cloud & Backend | Management & Tools |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,android,js,html,css" /> | <img src="https://skillicons.dev/icons?i=firebase,googlecloud" /> | <img src="https://skillicons.dev/icons?i=git,github,vite" /> |
-| **React 18** (SPA) | **Firebase Ecosystem** | **PMI / PMBOK** |
-| **Android Nativo** (MVC) | **Google Maps API** | **Bizagi (BPMN)** |
-| **Chakra UI** | **YouTube Data API** | **IT Infrastructure** |
-
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slinkter&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="Slinkter's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slinkter&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-### 💼 Professional Experience Highlights
-
-#### 🏢 Glass & Aluminum Company S.A.C. (Senior Frontend Developer)
-> *Transforming a traditional business into a digital powerhouse.*
-- **PMO Founder:** Established the Project Management Office, standardizing workflows with **PMI** & **Bizagi**.
-- **Tech Lead:** Migrated legacy systems to a modern **React 18 SPA** with **Clean Architecture**.
-- **Business Impact:** Saved **450 UIT** in potential fines by implementing a compliant Digital Reclamation Book.
-
-#### 🏥 Operations & HealthTech (Freelance & Consulting)
-> *Responding to crisis with technology.*
-- **HealthTech Architect:** Built a suite of **3 interconnected Android Apps** (Doctor, Patient, IoT Worker) for COVID-19 monitoring.
-- **Crisis Management:** Lead Digital Transformation for SMBs during the pandemic (e-commerce, biosafety protocols).
+- **Universidad de Lima**: Ingeniería de Sistemas | 2010 - 2016
+- **PLATZI**: Ruta Frontend Architect & Backend | 2020 - 2023
+- **EDTEAM**: Especialización en Desarrollo Android | 2018 - 2019
+- **ICPNA**: Inglés Funcional Profesional (B2)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Slinkter&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <p><i>"Quality is not an act, it is a habit."</i></p>
-</div>
+## HABILIDADES TÉCNICAS
+
+- **Frontend Core**: React 18 | TypeScript | JavaScript (ES6+) | HTML5 | CSS3
+- **UI & Estilos**: Tailwind CSS | Chakra UI | Bootstrap | Styled Components
+- **Backend & Cloud**: Firebase (Auth, Firestore, Functions) | Node.js | Google Cloud Platform
+- **Móvil**: Android SDK (Java) | Patrones MVVM/MVC
+- **Herramientas & Metodologías**: Git/GitHub | Vite | SCRUM | Guía PMBOK | Clean Architecture
+
+---
+
+## EXPERIENCIA LABORAL
+
+### Senior Frontend Developer | Glass & Aluminum Company S.A.C. | Enero 2023 – Actualidad
+
+_Liderazgo técnico en la modernización de la plataforma corporativa y optimización de procesos._
+
+- **Arquitectura & Performance**: Migré sistemas legados a una SPA moderna con **React 18**, logrando una mejora del **30% en LCP** (Large Contentful Paint) mediante estrategias de Lazy Loading y optimización de assets.
+- **Impacto de Negocio**: Desarrollé e implementé el módulo "Libro de Reclamaciones Digital" cumpliendo normativas de INDECOPI, salvaguardando a la empresa de multas potenciales por **~450 UIT**.
+- **Gestión (PMO)**: Estandaricé los flujos de cotización y logística bajo lineamientos **PMI**, eliminando errores de cálculo en márgenes de utilidad y materiales.
+
+### Android Developer & Consultor | Consulting ARSI E.I.R.L. | Julio 2019 – Diciembre 2022
+
+_Desarrollo de ecosistemas móviles interconectados para el sector salud y operaciones._
+
+- **HealthTech Ecosystem**: Arquitecté y desarrollé una suite de 3 aplicaciones Android nativas (**AppDoctor, AppPatient, AppWorker**) para el monitoreo remoto de pacientes COVID-19, integrando **Firebase Realtime Database** para sincronización en vivo.
+- **Optimización Operativa**: Digitalicé el proceso de monitoreo de signos vitales en campo, reduciendo el tiempo de respuesta ante emergencias y centralizando la data médica.
+
+### Web Developer | Consulting ARSI E.I.R.L. | Octubre 2018 – Junio 2019
+
+- **Modernización Web**: Lideré el rediseño del portal corporativo implementando mejores prácticas de **SEO Técnico** y Google My Business, incrementando el tráfico orgánico y la visibilidad local en un **20%**.
+- **Infraestructura**: Migré la infraestructura de hosting tradicional (FTP) a **Firebase Hosting**, asegurando SSL y alta disponibilidad.
+
+---
+
+## CERTIFICACIONES Y FORMACIÓN CONTINUA
+
+- **En Curso**: Inteligencia Artificial aplicada a Software, Ciencia de Datos (Python), AWS Cloud Practitioner.
+- **Certificaciones**: SCRUM Foundation, Gestión de Proyectos Ágiles.

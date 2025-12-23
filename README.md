@@ -1,63 +1,93 @@
-
-
-<div align="center">
-
-|                            Frontend                            |                          Cloud & Backend                          |                      Management & Tools                      |
-| :------------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=react,js,html,css" /> | <img src="https://skillicons.dev/icons?i=firebase,googlecloud" /> | <img src="https://skillicons.dev/icons?i=git,github,vite" /> |
-
-</div>
-
 # LUIS JHONATAN CUEVA ROJAS
 
-**Correo**: <luis.j.cueva@gmail.com> | **Tel**: 930-472-478  
-**Repositorio**: [GitHub](https://github.com/Slinkter) | [Portafolio](https://slinkter.github.io)  
+**Correo**: <luis.j.cueva@gmail.com> | **Tel**: 926-854-134
+**Repositorio**: [GitHub](https://github.com/Slinkter) | [Portafolio](https://slinkter.github.io)
 **LinkedIn**: [Luis Cueva](https://www.linkedin.com/in/luisjcueva)
 
-Egresado de Sistemas y Frontend Developer especializado en la arquitectura de aplicaciones web escalables con **React** y ecosistemas **Serverless (Firebase)**. Poseo una sólida capacidad para alinear la tecnología con los objetivos de negocio (ahorro de costos, cumplimiento normativo) y un background en desarrollo nativo (Android) que garantiza un código disciplinado y performante.
+Egresado de Ingeniería de Sistemas y Senior Frontend Developer especializado en **React (SPA)** y Arquitectura de Software. Dominio avanzado del ecosistema **Serverless (Firebase)**: diseño de bases de datos **NoSQL en tiempo real** (Firestore/Realtime DB), implementación de **Autenticación multiplataforma** y desarrollo de lógica backend escalable mediante **Cloud Functions (Node.js)**. Experto en optimización de rendimiento (Hooks, Lazy Loading) y principios **Clean Code**, alineando soluciones tecnológicas con objetivos de negocio.
 
 ---
 
 ## EDUCACIÓN
 
-- **Universidad de Lima**: Ingeniería de Sistemas | 2010 - 2016
-- **PLATZI**: Ruta Frontend Architect & Backend | 2020 - 2023
-- **EDTEAM**: Especialización en Desarrollo Android | 2018 - 2019
+- **Universidad de Lima**: Egresado de Ingeniería de Sistemas (2010 - 2016)
+- **EDTEAM**: Especialización en Desarrollo Android (2018 - 2019)
+- **PLATZI**: Ruta Frontend Architect & Backend (2020 - 2023)
 - **ICPNA**: Inglés Funcional Profesional (B2)
 
 ---
 
 ## HABILIDADES TÉCNICAS
 
-- **Frontend Core**: React 18 | TypeScript | JavaScript (ES6+) | HTML5 | CSS3
-- **UI & Estilos**: Tailwind CSS | Chakra UI | Bootstrap | Styled Components
-- **Backend & Cloud**: Firebase (Auth, Firestore, Functions) | Node.js | Google Cloud Platform
-- **Móvil**: Android SDK (Java) | Patrones MVVM/MVC
-- **Herramientas & Metodologías**: Git/GitHub | Vite | SCRUM | Guía PMBOK | Clean Architecture
-
+- **Frontend**: React 18, JavaScript, HTML5, CSS3,Tailwind CSS, Chakra UI, MUI
+- **Backend**: Servicios serverless Firebase , Node.js, Google Cloud Platform
+- **Movil**: Android SDK (Java)
+- **Herramientas & Metodologías**: Git/GitHub, Vite, SCRUM,VSCODE
 ---
 
 ## EXPERIENCIA LABORAL
 
-### Senior Frontend Developer | Glass & Aluminum Company S.A.C. | Enero 2023 – Actualidad
+### Senior Frontend Developer | Glass & Aluminum Company S.A.C.
+_Enero 2023 – Actualidad_
 
-_Liderazgo técnico en la modernización de la plataforma corporativa y optimización de procesos._
+**Funciones y Responsabilidades:**
+- **Lideré** la migración integral de la web corporativa (HTML/JS Legacy → **React SPA**): desde el levantamiento de requisitos con gerencia (Catálogo Digital) hasta el diseño y despliegue final bajo **Feature-Based Architecture**.
+- **Administré** la infraestructura digital y de red: gestión de dominios (GoDaddy), implementación de correos corporativos (**Google Workspace**) y mantenimiento preventivo de equipos informático.
+- **Creé** y **gestioné** el ecosistema digital integral: posicionamiento en **Google Maps/Business**, implementación de **WhatsApp Business** para atención al cliente y administración de redes sociales (Facebook/Instagram), actuando como Community Manager en la gestión de contenido visual.
+- **Gestioné** la Oficina de Proyectos (PMO), estandarizando flujos logísticos y comerciales bajo lineamientos PMI.
+- **Diseñé** y **ejecuté** el proyecto de seguridad electrónica (CCTV): realicé el análisis financiero (costos fijos/variables), diseño de topología de red y configuración técnica avanzada (NVR/IPs estáticas).
 
-- **Arquitectura & Performance**: Migré sistemas legados a una SPA moderna con **React 18**, logrando una mejora del **30% en LCP** (Large Contentful Paint) mediante estrategias de Lazy Loading y optimización de assets.
-- **Impacto de Negocio**: Desarrollé e implementé el módulo "Libro de Reclamaciones Digital" cumpliendo normativas de INDECOPI, salvaguardando a la empresa de multas potenciales por **~450 UIT**.
-- **Gestión (PMO)**: Estandaricé los flujos de cotización y logística bajo lineamientos **PMI**, eliminando errores de cálculo en márgenes de utilidad y materiales.
+**Logros Destacados:**
+- 🚀 **Web**: Migré sistemas legados a **React** , logrando una mejora del **30% en LCP** mediante Lazy Loading.
+- ⚖️ **Legal**: Desarrollé el "Libro de Reclamaciones Digital" (**Clean Architecture**), mitigando multas por (INDECOPI).
+- 📍 **SEO**: Optimicé la presencia en **Google Maps/Business**, logrando: **+15% visibilidad**, **+30% llamadas** y **+30% visitas físicas** a la tienda.
+.
 
-### Android Developer & Consultor | Consulting ARSI E.I.R.L. | Julio 2019 – Diciembre 2022
+### Freelance | Independiente
 
-_Desarrollo de ecosistemas móviles interconectados para el sector salud y operaciones._
+_Mayo 2021 – Diciembre 2022_
 
-- **HealthTech Ecosystem**: Arquitecté y desarrollé una suite de 3 aplicaciones Android nativas (**AppDoctor, AppPatient, AppWorker**) para el monitoreo remoto de pacientes COVID-19, integrando **Firebase Realtime Database** para sincronización en vivo.
-- **Optimización Operativa**: Digitalicé el proceso de monitoreo de signos vitales en campo, reduciendo el tiempo de respuesta ante emergencias y centralizando la data médica.
+- **Transformación Digital de Negocios**: Lideré la reactivación económica de PyMEs implementando estrategias de **Comercio Conversacional** mediante catálogos digitales en **WhatsApp Business** y Facebook. Diseñé la señalética visual de bioseguridad para garantizar el cumplimiento normativo en puntos de venta físicos, logrando una experiencia de cliente omnicanal segura y efectiva.
+- **Continuidad Operativa & Normativa**: Diseñé e implementé protocolos de atención digital y seguridad operativa, permitiendo la reapertura segura de negocios bajo las estrictas normativas sanitarias del COVID-19.
 
-### Web Developer | Consulting ARSI E.I.R.L. | Octubre 2018 – Junio 2019
+### Android Developer  | Consulting ARSI E.I.R.L. 
 
-- **Modernización Web**: Lideré el rediseño del portal corporativo implementando mejores prácticas de **SEO Técnico** y Google My Business, incrementando el tráfico orgánico y la visibilidad local en un **20%**.
-- **Infraestructura**: Migré la infraestructura de hosting tradicional (FTP) a **Firebase Hosting**, asegurando SSL y alta disponibilidad.
+_Julio 2019 – Diciembre 2022_
+
+**Funciones y Responsabilidades:**
+- **Investigué** y **prototipé** aplicaciones móviles (MVPs) como valor agregado para clientes, diseñando soluciones innovadoras para validar nuevos modelos de negocio.
+- **Arquitecté** soluciones bajo demanda ("Uber-style") para el sector salud, integrando **Google Maps SDK** para geolocalización en vivo y diseño de esquemas **NoSQL (Firestore/Realtime DB)** para alta concurrencia.
+- **Implementé** módulos de capacitación multimedia integrando la **YouTube Data API**, permitiendo el consumo de contenido formativo de seguridad industrial dentro de la app corporativa.
+
+
+**Logros Destacados:**
+
+- 📱 **Desarrollé** "ARSI APP", una APP android para la capacitación corporativa  en seguridad industrial mediante módulos multimedia (**YouTube Data API**) y acceso offline a manuales PDF.
+- 📊  **Desarrollé** "AppUT" , una APP android  donde se registraba a de signos vitales del personal de la empresa y trabajadores externos, ayudando a llevar un registro en tiempo real y centralizando la data de salud ocupacional para la toma de decisiones estratégicas.
+- 🏥  **Desarrollé** la suite de telemedicina integral (**AppDoctor & AppPatient**), facilitando el monitoreo remoto de pacientes y la gestión de alertas médicas en tiempo real.
+
+### Web Developer | Consulting ARSI E.I.R.L. | 
+_Octubre 2018 – Junio 2019_
+
+**Funciones y Responsabilidades:**
+- **Lideré** el rediseño integral del portal corporativo (HTML5/JS/PHP), alineando la identidad visual con los servicios de reclutamiento e integración.
+- **Gestioné** la infraestructura de dominios y hosting, administrando la configuración de DNS en GoDaddy y el control de versiones en **GitHub**.
+- **Dirigí** el ciclo de vida del proyecto web bajo estándares del **PMI (PMBOK)**, encabezando el levantamiento de requerimientos y asegurando el cumplimiento de cronogramas.
+
+**Logros Destacados:**
+- ☁️ **Infraestructura Cloud**: **Migré** el hosting legacy (FTP) a **Firebase Hosting**, garantizando **SSL gratuito**, alta disponibilidad y reduciendo tiempos de carga.
+- 📈 **SEO & Visibilidad**: **Implementé** estrategias de **SEO Técnico** y optimización en **Google My Business**, incrementando el tráfico orgánico y la visibilidad local en un **20%**.
+
+### **Practicante de Sistemas** | Consulting ARSI E.I.R.L
+
+_Abril 2018 – Septiembre 2018_
+
+**Funciones y Responsabilidades:**
+- **Administré** la gestión de usuarios y accesos en **Windows Server**, configurando políticas de red para garantizar la seguridad del Data Center.
+- **Brindé** soporte técnico avanzado y soluciones de ofimática a áreas críticas (RRHH, Gerencia), asegurando la continuidad operativa del negocio.
+
+**Logros Destacados:**
+- 💰 **Optimización de Activos**: **Implementé** el primer sistema de inventario centralizado y **recuperé** funcionalmente el **30% de equipos** catalogados como 'obsoletos', generando ahorros significativos en costos de adquisición.
 
 ---
 

@@ -4,7 +4,7 @@
 **Repositorio**: [GitHub](https://github.com/Slinkter) | [Portafolio](https://slinkter.github.io)
 **LinkedIn**: [Luis Cueva](https://www.linkedin.com/in/luisjcueva)
 
-Egresado de Ingeniería de Sistemas y Frontend Developer especializado en **React** y el ecosistema **Firebase** (Serverless). Lidero proyectos aplicando la guía del **PMI** y principios **Clean Code**. Potencio el ciclo de desarrollo integrando **Agentes de IA** para refactorización, detección de bugs, nuevas funcionalidades y documentación técnica, combinando esto con **Ciencia de Datos** para crear soluciones escalables.
+Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arquitectura feature-based usando **React** con **TailwindCSS**  y uso  **Firebase** como infraestrucutra serveles   cuyo servicios cloud usados son autenticación,funciones,hosting, base de datos y almacenamiento de datos. Actualmente estoy migrando proyectos a **NextJS** con **Agentes de IA** para refactorización, detección de bugs, nuevas funcionalidades y documentación técnica, testing  . Adicionalmente me encuentro estudiando **IA** y **Ciencia de Datos** para crear soluciones escalables.
 
 ## EDUCACIÓN
 
@@ -13,23 +13,24 @@ Egresado de Ingeniería de Sistemas y Frontend Developer especializado en **Reac
 - **PLATZI**: Ruta Frontend Architect & Backend (2020 - 2023)
 - **ICPNA**: Inglés Funcional Profesional (B2)
 
-
-
 ## HABILIDADES TÉCNICAS
 
 - **Lenguajes de Programación**: Java, JavaScript, SQL, Python
 - **Frontend**: React 18, Tailwind CSS [Chakra UI, MUI]
 - **Backend**: Firebase (Serverless), Node.js, Google Cloud Platform
 - **Móvil**: Android SDK (Java)
-- **Herramientas**: Git, Vite, VS Code, Anaconda, Android Studio, Figma
-- **Metodologías**: PMBOK (Enfoque PMI), Scrum, Excel 
+- **Herramientas**: Git, Vite, VS Code
+- **Otros**: Excel
+
+## FORMACIÓN CONTINUA
+
+- **En Curso**: Preparación para certificación **PMP®** y **Scrum Master**. **AWS Cloud Practitioner**, Inteligencia Artificial & Ciencia de Datos (Python).
 
 ## EXPERIENCIA LABORAL
 
-### Senior Frontend Developer | Glass & Aluminum Company S.A.C.
+### Frontend Developer | Glass & Aluminum Company S.A.C.
 
 _Enero 2023 – Actualidad_
-
 **Funciones y Responsabilidades:**
 - **Lideré** la migración integral de la web corporativa (HTML/JS Legacy → **React SPA**): desde el levantamiento de requisitos (Catálogo Digital) hasta el diseño y despliegue final con **Feature-Based Architecture**.
 - **Administré** la infraestructura digital y de red: gestión de dominios (GoDaddy), implementación de correos corporativos (**Google Workspace**) y mantenimiento preventivo de equipos informáticos.
@@ -90,6 +91,4 @@ _Abril 2018 – Septiembre 2018_
 **Logros Destacados:**
 - 💰 **Optimización de Activos**: **Implementé** el primer sistema de inventario centralizado y **recuperé** funcionalmente el **30% de equipos** catalogados como 'obsoletos', generando ahorros significativos en costos de adquisición.
 
-## CERTIFICACIONES Y FORMACIÓN CONTINUA
 
-- **En Curso**: Preparación para certificación **PMP®** y **Scrum Master**. **AWS Cloud Practitioner**, Inteligencia Artificial & Ciencia de Datos (Python).

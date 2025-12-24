@@ -28,10 +28,11 @@ Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arq
 
 ## EXPERIENCIA LABORAL
 
-### Frontend Developer | Glass & Aluminum Company S.A.C.
+### Frontend Developer | Glass & Aluminum Company S.A.C
 
 _Enero 2023 – Actualidad_
 **Funciones y Responsabilidades:**
+
 - **Lideré** la migración integral de la web corporativa (HTML/JS Legacy → **React SPA**): desde el levantamiento de requisitos (Catálogo Digital) hasta el diseño y despliegue final con **Feature-Based Architecture**.
 - **Administré** la infraestructura digital y de red: gestión de dominios (GoDaddy), implementación de correos corporativos (**Google Workspace**) y mantenimiento preventivo de equipos informáticos.
 - **Gestioné** el ecosistema digital integral: posicionamiento en **Google Maps/Business**, implementación de **WhatsApp Business** para atención al cliente y administración de contenido visual en redes sociales.
@@ -39,6 +40,7 @@ _Enero 2023 – Actualidad_
 - **Ejecuté** el proyecto de seguridad electrónica (CCTV): análisis financiero, diseño de topología de red y configuración técnica avanzada (NVR/IPs estáticas).
 
 **Logros Destacados:**
+
 - 🚀 **Web**: Migración exitosa a **React**, logrando una mejora del **30% en LCP** mediante estrategias de Lazy Loading.
 - ⚖️ **Legal**: Desarrollo e implementación del "Libro de Reclamaciones Digital" (**Clean Architecture**), asegurando cumplimiento normativo (INDECOPI).
 - 📍 **SEO**: Optimización de **Google Maps/Business**, logrando: **+15% visibilidad**, **+30% llamadas** y **+30% visitas físicas** a la tienda.
@@ -53,30 +55,34 @@ _Mayo 2021 – Diciembre 2022_
 
 ### Android Developer | Consulting ARSI
 
-_Julio 2019 – Diciembre 2022_
+_Abril 2019 – Abril 2021_
 
 **Funciones y Responsabilidades:**
--  **Desarrollé** aplicaciones móviles android como valor agregado para clientes, diseñando soluciones innovadoras para validar nuevos modelos de negocio.
-- **Arquitecté** soluciones bajo demanda ("Uber-style") para el sector salud, integrando **Google Maps SDK** para geolocalización en vivo y diseño de esquemas **NoSQL (Firestore/Realtime DB)** para alta concurrencia.
-- **Implementé** módulos de capacitación multimedia integrando la **YouTube Data API**, permitiendo el consumo de contenido formativo de seguridad industrial dentro de la app corporativa.
 
+- **Diseñé y desarrollé** aplicaciones móviles Android integrales, desde el prototipado UX/UI en **Adobe XD** bajo lineamientos **Material Design** hasta la implementación funcional.
+- **Arquitecté** la infraestructura backend con **Firebase** (Auth, Firestore, Realtime DB), implementando autenticación robusta (Google Sign-In) y sincronización de datos en tiempo real.
+- **Implementé** integraciones multimedia con **YouTube Data API** y visualización de documentos PDF, enriqueciendo la experiencia de capacitación corporativa.
+- **Gestioné** el ciclo de vida de los proyectos bajo la metodología del **PMI**, alineando el desarrollo técnico con los objetivos estratégicos del negocio.
 
 **Logros Destacados:**
 
-- 📱 **ARSI APP**: Aplicación Android para capacitación corporativa con acceso offline a manuales y módulos multimedia.
-- 📊 **AppUT**: Sistema de monitoreo de salud ocupacional para el registro en tiempo real de signos vitales, facilitando la toma de decisiones estratégicas.
+- 📱 **ARSI APP**: Plataforma educativa interna que integró cursos en video y material digital. Mejoró la capacitación del personal mediante una UX intuitiva y acceso centralizado a recursos.
+- 📊 **ARSI UT**: Sistema de monitoreo sanitario en tiempo real (COVID-19) para el registro de signos vitales y visualización de historias clínicas, facilitando la respuesta médica oportuna.
 - 🏥 **Telemedicina**: Desarrollo de la suite **AppDoctor & AppPatient**, permitiendo el monitoreo remoto y gestión de alertas médicas en tiempo real.
 
-### Web Developer | Consulting ARSI
+### Frontend Web Developer | Consulting ARSI
 
-_Octubre 2018 – Junio 2019_
+_Octubre 2018 – Marzo 2019_
 
 **Funciones y Responsabilidades:**
-- **Lideré** el rediseño integral del portal corporativo (HTML5/JS/PHP), alineando la identidad visual con los servicios de reclutamiento e integración.
-- **Gestioné** la infraestructura de dominios y hosting, administrando la configuración de DNS en GoDaddy y el control de versiones en **GitHub**.
-- **Dirigí** el ciclo de vida del proyecto web bajo estándares del **PMI (PMBOK)**, encabezando el levantamiento de requerimientos y asegurando el cumplimiento de cronogramas.
+
+- **Fundé y lideré** el área de software, estableciendo los primeros estándares de desarrollo y documentación técnica de la empresa.
+- **Rediseñé** la presencia digital corporativa desde cero, utilizando **Adobe XD** para el prototipado y **Bootstrap 3 (HTML/CSS/JS)** para la implementación, modernizando una web desactualizada por años.
+- **Gestioné** integralmente el proyecto web bajo lineamientos del **PMI**, asegurando una documentación rigurosa y el cumplimiento de cronogramas.
+- **Administré** la infraestructura de TI para la web, asumiendo el control total de dominios, hosting y mantenimiento.
 
 **Logros Destacados:**
+
 - ☁️ **Infraestructura Cloud**: **Migré** el hosting legacy (FTP) a **Firebase Hosting**, garantizando **SSL gratuito**, alta disponibilidad y reduciendo tiempos de carga.
 - 📈 **SEO & Visibilidad**: **Implementé** estrategias de **SEO Técnico** y optimización en **Google My Business**, incrementando el tráfico orgánico y la visibilidad local en un **20%**.
 
@@ -85,10 +91,14 @@ _Octubre 2018 – Junio 2019_
 _Abril 2018 – Septiembre 2018_
 
 **Funciones y Responsabilidades:**
-- **Administré** la gestión de usuarios y accesos en **Windows Server**, configurando políticas de red para garantizar la seguridad del Data Center.
-- **Brindé** soporte técnico avanzado y soluciones de ofimática a áreas críticas (RRHH, Gerencia), asegurando la continuidad operativa del negocio.
+
+- **Brindé** soporte técnico integral (mantenimiento preventivo/correctivo) y configuración de periféricos, asegurando la continuidad operativa de las áreas críticas.
+- **Administré** la seguridad en **Windows Server**, gestionando usuarios y permisos de acceso a recursos corporativos para mejorar la eficiencia operativa.
+- **Gestioné** el ciclo de vida de los activos TI, documentando el inventario y tramitando la baja de equipos obsoletos para mantener un entorno actualizado.
 
 **Logros Destacados:**
-- 💰 **Optimización de Activos**: **Implementé** el primer sistema de inventario centralizado y **recuperé** funcionalmente el **30% de equipos** catalogados como 'obsoletos', generando ahorros significativos en costos de adquisición.
+
+- � **Conectividad**: **Implementé** una nueva arquitectura de red que redujo en un **30%** las incidencias de conectividad e impresión, mejorando la estabilidad del sistema.
+- ⚡ **Rendimiento**: **Optimicé** los equipos informáticos, incrementando la productividad global en un **10%** y reduciendo drásticamente los tiempos de inactividad por fallos técnicos.
 
 

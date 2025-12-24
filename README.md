@@ -4,7 +4,7 @@
 **Repositorio**: [GitHub](https://github.com/Slinkter) | [Portafolio](https://slinkter.github.io)
 **LinkedIn**: [Luis Cueva](https://www.linkedin.com/in/luisjcueva)
 
-Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arquitectura feature-based usando **React** con **TailwindCSS**  y uso  **Firebase** como infraestrucutra serveles   cuyo servicios cloud usados son autenticación,funciones,hosting, base de datos y almacenamiento de datos. Actualmente estoy migrando proyectos a **NextJS** con **Agentes de IA** para refactorización, detección de bugs, nuevas funcionalidades y documentación técnica, testing  . Adicionalmente me encuentro estudiando **IA** y **Ciencia de Datos** para crear soluciones escalables.
+Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arquitectura feature-based usando **React** con **TailwindCSS**  y uso  **Firebase** como Infraestructura Serverless cuyos servicios cloud usados son autenticación,funciones,hosting, base de datos y almacenamiento de datos. Actualmente estoy migrando proyectos a **NextJS** con **Agentes de IA** para refactorización, detección de bugs, nuevas funcionalidades y documentación técnica, testing  . Adicionalmente me encuentro estudiando **IA** y **Ciencia de Datos** para crear soluciones escalables.
 
 ## EDUCACIÓN
 
@@ -16,7 +16,7 @@ Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arq
 ## HABILIDADES TÉCNICAS
 
 - **Lenguajes de Programación**: Java, JavaScript, SQL, Python
-- **Frontend**: React 18, Tailwind CSS [Chakra UI, MUI]
+- **Frontend**: React 18, Tailwind CSS ,Chakra UI, MUI
 - **Backend**: Firebase (Serverless), Node.js, Google Cloud Platform
 - **Móvil**: Android SDK (Java)
 - **Herramientas**: Git, Vite, VS Code
@@ -28,7 +28,7 @@ Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arq
 
 ## EXPERIENCIA LABORAL
 
-### Frontend Developer | Glass & Aluminum Company S.A.C
+### Frontend Developer | Glass & Aluminum Company S.A.C.
 
 _Enero 2023 – Actualidad_
 **Funciones y Responsabilidades:**

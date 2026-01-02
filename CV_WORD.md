@@ -4,14 +4,13 @@
 **Repositorio**: [GitHub](https://github.com/Slinkter) | [Portafolio](https://slinkter.github.io)
 **LinkedIn**: [Luis Cueva](https://www.linkedin.com/in/luisjcueva)
 
-Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arquitectura feature-based usando **React** con **TailwindCSS** y uso **Firebase** como Infraestructura Serverless cuyos servicios cloud usados son autenticación,funciones,hosting, base de datos y almacenamiento de datos. Actualmente estoy refactorizando proyectos a webs con **Agentes de IA** para detección de bugs, nuevas implementacion de funcionalidades y documentación técnica, testing . Adicionalmente estoy estudiando **IA** y **Ciencia de Datos** para crear soluciones escalables.
+Frontend Developer especialista en el desarrollo de aplicaciones web (SPA) escalables con arquitectura Feature-Based usando React y TailwindCSS. Experto en infraestructura Cloud Native con Firebase (Serverless), gestionando autenticación, bases de datos y hosting. Actualmente liderando la refactorización de proyectos React mediante la integración de Agentes de IA para detección de bugs, testing automatizado y documentación técnica . Adicionalmente estoy estudiando **IA** y **Ciencia de Datos** para crear soluciones escalables.
 
 ## EDUCACIÓN
 
 - **Universidad de Lima**: Egresado de Ingeniería de Sistemas (2010 - 2016)
 - **EDTEAM**: Especialización en Desarrollo Android (2018 - 2019)
 - **PLATZI**: Ruta Frontend Architect & Backend (2020 - 2023)
-- **ICPNA**: Inglés Funcional Profesional (B2)
 
 ## HABILIDADES TÉCNICAS
 
@@ -28,7 +27,7 @@ Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arq
 
 ## EXPERIENCIA LABORAL
 
-### Frontend Developer | Glass & Aluminum Company S.A.C.
+### Frontend Developer | Glass & Aluminum Company S.A.C
 
 _Enero 2023 – Actualidad_
 **Funciones y Responsabilidades:**

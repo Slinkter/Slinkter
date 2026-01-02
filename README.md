@@ -1,104 +1,92 @@
-# LUIS JHONATAN CUEVA ROJAS
+<div align="center">
+  
+  <h1>👋 Hola, soy Luis Jhonatan Cueva Rojas</h1>
+  <h3>Senior Frontend Developer React | Ingeniero de Sistemas</h3>
 
-**Correo**: <luis.j.cueva@gmail.com> | **Tel**: 926-854-134
-**Repositorio**: [GitHub](https://github.com/Slinkter) | [Portafolio](https://slinkter.github.io)
-**LinkedIn**: [Luis Cueva](https://www.linkedin.com/in/luisjcueva)
+  <p>
+    <a href="https://www.linkedin.com/in/luisjcueva" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://slinkter.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:luis.j.cueva@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arquitectura feature-based usando **React** con **TailwindCSS**  y uso  **Firebase** como Infraestructura Serverless cuyos servicios cloud usados son autenticación,funciones,hosting, base de datos y almacenamiento de datos. Actualmente estoy migrando proyectos a **NextJS** con **Agentes de IA** para refactorización, detección de bugs, nuevas funcionalidades y documentación técnica, testing  . Adicionalmente me encuentro estudiando **IA** y **Ciencia de Datos** para crear soluciones escalables.
+</div>
 
-## EDUCACIÓN
+<br/>
 
-- **Universidad de Lima**: Egresado de Ingeniería de Sistemas (2010 - 2016)
-- **EDTEAM**: Especialización en Desarrollo Android (2018 - 2019)
-- **PLATZI**: Ruta Frontend Architect & Backend (2020 - 2023)
-- **ICPNA**: Inglés Funcional Profesional (B2)
+### 👨‍💻 Sobre mí
 
-## HABILIDADES TÉCNICAS
+Ingeniero de Sistemas con experiencia en el desarrollo de aplicaciones web SPA React Me enfoco en cerrar la brecha entre la **Estrategia de Negocio** y la **Excelencia Técnica**.
 
-- **Lenguajes de Programación**: Java, JavaScript, SQL, Python
-- **Frontend**: React 18, Tailwind CSS ,Chakra UI, MUI
-- **Backend**: Firebase (Serverless), Node.js, Google Cloud Platform
-- **Móvil**: Android SDK (Java)
-- **Herramientas**: Git, Vite, VS Code
-- **Otros**: Excel
+- 🔭 **Actualmente**: Migrando proyectos corporativos a **NextJS** integrando **Agentes de IA** para optimización y testing.
+- 🌱 **Aprendiendo**: **Inteligencia Artificial** y **Ciencia de Datos** (Python) para crear soluciones escalables.
+- 💡 **Enfoque**: Arquitectura Limpia (Clean Architecture), Optimización de Rendimiento (Web Vitals) y Experiencia de Usuario (UX).
 
-## FORMACIÓN CONTINUA
+---
 
-- **En Curso**: Preparación para certificación **PMP®** y **Scrum Master**. **AWS Cloud Practitioner**, Inteligencia Artificial & Ciencia de Datos (Python).
+### 🛠️ Tech Stack
 
-## EXPERIENCIA LABORAL
+<div align="center">
 
-### Frontend Developer | Glass & Aluminum Company S.A.C.
+|                               Frontend & Mobile                               |                             Cloud & Backend                             |                         Management & Tools                          |
+| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,android" /> | <img src="https://skillicons.dev/icons?i=firebase,gcp,nodejs,python" /> | <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" /> |
+|                          **React 18** / **Next.js**                           |                         **Firebase Serverless**                         |                           **PMI / Scrum**                           |
+|                            **Tailwind CSS / MUI**                             |                            **Google Cloud**                             |                       **Clean Architecture**                        |
+|                                **Android SDK**                                |                          **Node.js / Python**                           |                           **Git & CI/CD**                           |
+
+</div>
+
+### 💼 Experiencia Profesional Destacada
+
+#### 🏢 Glass & Aluminum Company S.A.C. (Frontend Developer)
 
 _Enero 2023 – Actualidad_
-**Funciones y Responsabilidades:**
 
-- **Lideré** la migración integral de la web corporativa (HTML/JS Legacy → **React SPA**): desde el levantamiento de requisitos (Catálogo Digital) hasta el diseño y despliegue final con **Feature-Based Architecture**.
-- **Administré** la infraestructura digital y de red: gestión de dominios (GoDaddy), implementación de correos corporativos (**Google Workspace**) y mantenimiento preventivo de equipos informáticos.
-- **Gestioné** el ecosistema digital integral: posicionamiento en **Google Maps/Business**, implementación de **WhatsApp Business** para atención al cliente y administración de contenido visual en redes sociales.
-- **Estandaricé** procesos en la Oficina de Proyectos (PMO), optimizando flujos logísticos y comerciales bajo lineamientos PMI.
-- **Ejecuté** el proyecto de seguridad electrónica (CCTV): análisis financiero, diseño de topología de red y configuración técnica avanzada (NVR/IPs estáticas).
+> _Liderando la transformación digital y migración a arquitecturas modernas._
 
-**Logros Destacados:**
+- **Migración SPA**: Lideré la migración completa de Legacy a **React SPA** con arquitectura Feature-Based.
+- **Rendimiento**: Logré una mejora del **30% en LCP** mediante estrategias de Lazy Loading.
+- **Impacto**: Implementé el "Libro de Reclamaciones Digital" asegurando cumplimiento normativo (INDECOPI).
+- **SEO & Growth**: Optimización de Google Maps/Business (+15% visibilidad, +30% visitas).
 
-- 🚀 **Web**: Migración exitosa a **React**, logrando una mejora del **30% en LCP** mediante estrategias de Lazy Loading.
-- ⚖️ **Legal**: Desarrollo e implementación del "Libro de Reclamaciones Digital" (**Clean Architecture**), asegurando cumplimiento normativo (INDECOPI).
-- 📍 **SEO**: Optimización de **Google Maps/Business**, logrando: **+15% visibilidad**, **+30% llamadas** y **+30% visitas físicas** a la tienda.
-
-### Freelance | Independiente
+#### 🏥 Operations & HealthTech (Freelance & Consulting)
 
 _Mayo 2021 – Diciembre 2022_
 
-- **Transformación Digital**: Lideré la reactivación económica de PyMEs implementando estrategias de **Comercio Conversacional** (WhatsApp Business / Facebook).
-- **Bioseguridad y Normativa**: Diseñé la señalética y protocolos de atención digital, garantizando el cumplimiento normativo COVID-19 y permitiendo la reapertura segura de negocios.
-- **Experiencia de Cliente**: Implementé flujos de atención omnicanal, mejorando la interacción y seguridad en puntos de venta físicos.
+> _Innovación tecnológica en contextos de crisis._
 
-### Android Developer | Consulting ARSI
+- **Reactivación Económica**: Implementación de estrategias de **Comercio Conversacional** para PyMEs.
+- **Bioseguridad**: Diseño de protocolos digitales para cumplimiento normativo COVID-19.
+- **Experiencia Cliente**: Flujos de atención omnicanal para seguridad en puntos de venta.
+
+#### 📱 Consulting ARSI (Android & Web Developer)
 
 _Abril 2019 – Abril 2021_
 
-**Funciones y Responsabilidades:**
+> _Desarrollo de ecosistemas móviles y web integrados._
 
-- **Diseñé y desarrollé** aplicaciones móviles Android integrales, desde el prototipado UX/UI en **Adobe XD** bajo lineamientos **Material Design** hasta la implementación funcional.
-- **Arquitecté** la infraestructura backend con **Firebase** (Auth, Firestore, Realtime DB), implementando autenticación robusta (Google Sign-In) y sincronización de datos en tiempo real.
-- **Implementé** integraciones multimedia con **YouTube Data API** y visualización de documentos PDF, enriqueciendo la experiencia de capacitación corporativa.
-- **Gestioné** el ciclo de vida de los proyectos bajo la metodología del **PMI**, alineando el desarrollo técnico con los objetivos estratégicos del negocio.
+- **Arquitectura Móvil**: Diseño de apps Android nativas con **Material Design** y Backend en **Firebase**.
+- **Soluciones COVID-19**: Sistema de monitoreo sanitario en tiempo real (**ARSI UT**) y suite de Telemedicina (**AppDoctor & AppPatient**).
+- **Educación Corporativa**: Plataforma **ARSI APP** con integración de video streaming y gestión documental.
 
-**Logros Destacados:**
+---
 
-- 📱 **ARSI APP**: Plataforma educativa interna que integró cursos en video y material digital. Mejoró la capacitación del personal mediante una UX intuitiva y acceso centralizado a recursos.
-- 📊 **ARSI UT**: Sistema de monitoreo sanitario en tiempo real (COVID-19) para el registro de signos vitales y visualización de historias clínicas, facilitando la respuesta médica oportuna.
-- 🏥 **Telemedicina**: Desarrollo de la suite **AppDoctor & AppPatient**, permitiendo el monitoreo remoto y gestión de alertas médicas en tiempo real.
+### 🎓 Educación
 
-### Frontend Web Developer | Consulting ARSI
+- 🎓 **Ingeniería de Sistemas** | Universidad de Lima (2010 - 2016)
+- 📱 **Especialización Android** | EDTEAM (2018 - 2019)
+- 💻 **Frontend Architect & Backend** | PLATZI (2020 - 2023)
+- 🇬🇧 **Inglés Funcional Profesional (B2)** | ICPNA
 
-_Octubre 2018 – Marzo 2019_
+---
 
-**Funciones y Responsabilidades:**
-
-- **Fundé y lideré** el área de software, estableciendo los primeros estándares de desarrollo y documentación técnica de la empresa.
-- **Rediseñé** la presencia digital corporativa desde cero, utilizando **Adobe XD** para el prototipado y **Bootstrap 3 (HTML/CSS/JS)** para la implementación, modernizando una web desactualizada por años.
-- **Gestioné** integralmente el proyecto web bajo lineamientos del **PMI**, asegurando una documentación rigurosa y el cumplimiento de cronogramas.
-- **Administré** la infraestructura de TI para la web, asumiendo el control total de dominios, hosting y mantenimiento.
-
-**Logros Destacados:**
-
-- ☁️ **Infraestructura Cloud**: **Migré** el hosting legacy (FTP) a **Firebase Hosting**, garantizando **SSL gratuito**, alta disponibilidad y reduciendo tiempos de carga.
-- 📈 **SEO & Visibilidad**: **Implementé** estrategias de **SEO Técnico** y optimización en **Google My Business**, incrementando el tráfico orgánico y la visibilidad local en un **20%**.
-
-### Practicante de Sistemas | Consulting ARSI
-
-_Abril 2018 – Septiembre 2018_
-
-**Funciones y Responsabilidades:**
-
-- **Brindé** soporte técnico integral (mantenimiento preventivo/correctivo) y configuración de periféricos, asegurando la continuidad operativa de las áreas críticas.
-- **Administré** la seguridad en **Windows Server**, gestionando usuarios y permisos de acceso a recursos corporativos para mejorar la eficiencia operativa.
-- **Gestioné** el ciclo de vida de los activos TI, documentando el inventario y tramitando la baja de equipos obsoletos para mantener un entorno actualizado.
-
-**Logros Destacados:**
-
-- � **Conectividad**: **Implementé** una nueva arquitectura de red que redujo en un **30%** las incidencias de conectividad e impresión, mejorando la estabilidad del sistema.
-- ⚡ **Rendimiento**: **Optimicé** los equipos informáticos, incrementando la productividad global en un **10%** y reduciendo drásticamente los tiempos de inactividad por fallos técnicos.
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Slinkter&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <p><i>"Quality is not an act, it is a habit."</i></p>
+</div>

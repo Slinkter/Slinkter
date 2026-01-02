@@ -4,7 +4,7 @@
 **Repositorio**: [GitHub](https://github.com/Slinkter) | [Portafolio](https://slinkter.github.io)
 **LinkedIn**: [Luis Cueva](https://www.linkedin.com/in/luisjcueva)
 
-Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arquitectura feature-based usando **React** con **TailwindCSS** y uso **Firebase** como Infraestructura Serverless cuyos servicios cloud usados son autenticación,funciones,hosting, base de datos y almacenamiento de datos. Actualmente estoy migrando proyectos a **NextJS** con **Agentes de IA** para refactorización, detección de bugs, nuevas funcionalidades y documentación técnica, testing . Adicionalmente me encuentro estudiando **IA** y **Ciencia de Datos** para crear soluciones escalables.
+Frontend Developer especialista en el desarrollo de aplicaciones web SPA con arquitectura feature-based usando **React** con **TailwindCSS** y uso **Firebase** como Infraestructura Serverless cuyos servicios cloud usados son autenticación,funciones,hosting, base de datos y almacenamiento de datos. Actualmente estoy refactorizando proyectos a webs con **Agentes de IA** para detección de bugs, nuevas implementacion de funcionalidades y documentación técnica, testing . Adicionalmente estoy estudiando **IA** y **Ciencia de Datos** para crear soluciones escalables.
 
 ## EDUCACIÓN
 
